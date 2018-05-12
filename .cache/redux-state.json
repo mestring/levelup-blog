@@ -1,0 +1,2076 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/Users/peterholmgrencranner/levelup-blog/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "updatedAt": 1526136271085,
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Users/peterholmgrencranner/levelup-blog/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "cfecff74e8de04589c3ddcb1b7847a04",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "/Users/peterholmgrencranner/levelup-blog/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "Plugin dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/peterholmgrencranner/levelup-blog/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "24e35b2ec1c73971baf54e0b0a42ef07",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-page-creator": {
+      "resolve": "/Users/peterholmgrencranner/levelup-blog/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "id": "Plugin component-page-creator",
+      "name": "component-page-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/peterholmgrencranner/levelup-blog/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "packageJson": {
+        "name": "component-page-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "42dcf9f4e6478d5c4173ffa86f482369",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-layout-creator": {
+      "resolve": "/Users/peterholmgrencranner/levelup-blog/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "id": "Plugin component-layout-creator",
+      "name": "component-layout-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createLayouts"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/peterholmgrencranner/levelup-blog/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "packageJson": {
+        "name": "component-layout-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "17b93fb0052ba5e4baf3be345acf6534",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "/Users/peterholmgrencranner/levelup-blog/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "Plugin internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/peterholmgrencranner/levelup-blog/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ada964dc06c35831bbdc95dc5ec7bd27",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "/Users/peterholmgrencranner/levelup-blog/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "Plugin prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/peterholmgrencranner/levelup-blog/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "0f53259c11bf2fff9f1a202257655e39",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "/Users/peterholmgrencranner/levelup-blog/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "Plugin query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage",
+        "onCreateLayout"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/peterholmgrencranner/levelup-blog/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "65f474c0278d91854547248d566c3fd9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-helmet": {
+      "resolve": "/Users/peterholmgrencranner/levelup-blog/node_modules/gatsby-plugin-react-helmet",
+      "id": "Plugin gatsby-plugin-react-helmet",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "2.0.5",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/peterholmgrencranner/levelup-blog/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Stub description for gatsby-plugin-react-helmet",
+        "version": "2.0.5",
+        "main": "index.js",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "matthews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": ">=5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c3e5a37297ccbf0274ba6d5108b94b2b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-styled-components": {
+      "resolve": "/Users/peterholmgrencranner/levelup-blog/node_modules/gatsby-plugin-styled-components",
+      "id": "Plugin gatsby-plugin-styled-components",
+      "name": "gatsby-plugin-styled-components",
+      "version": "2.0.7",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "replaceRenderer"
+      ],
+      "pluginFilepath": "/Users/peterholmgrencranner/levelup-blog/node_modules/gatsby-plugin-styled-components",
+      "packageJson": {
+        "name": "gatsby-plugin-styled-components",
+        "description": "Gatsby plugin to add support for styled components",
+        "version": "2.0.7",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "styled-components"
+        ],
+        "author": {
+          "name": "Guten Ye",
+          "email": "ywzhaifei@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "styled-components",
+            "version": ">= 2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d13ca638c16f5470f858490ed28d590e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-filesystem": {
+      "resolve": "/Users/peterholmgrencranner/levelup-blog/node_modules/gatsby-source-filesystem",
+      "id": "Plugin gatsby-source-filesystem",
+      "name": "gatsby-source-filesystem",
+      "version": "1.5.21",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "img",
+        "path": "/Users/peterholmgrencranner/levelup-blog/src/images"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/peterholmgrencranner/levelup-blog/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "1.5.21",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^1.3.6"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "69dbca3780678a266ad1510d5804c67b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-remark": {
+      "resolve": "/Users/peterholmgrencranner/levelup-blog/node_modules/gatsby-transformer-remark",
+      "id": "Plugin gatsby-transformer-remark",
+      "name": "gatsby-transformer-remark",
+      "version": "1.7.33",
+      "pluginOptions": {
+        "plugins": [],
+        "excerpt_separator": "<!-- end -->"
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/peterholmgrencranner/levelup-blog/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "1.7.33",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "graphql-type-json",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^2.0.2"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^2.4.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.1"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.14.1"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.1"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "^6.20.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c153c9c0e4187ea760a6f884bc00d942",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-sharp": {
+      "resolve": "/Users/peterholmgrencranner/levelup-blog/node_modules/gatsby-transformer-sharp",
+      "id": "Plugin gatsby-transformer-sharp",
+      "name": "gatsby-transformer-sharp",
+      "version": "1.6.20",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/peterholmgrencranner/levelup-blog/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "1.6.20",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "image-size",
+            "version": "^0.6.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "81c6517c8f07541f47675e6782456bad",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sharp": {
+      "resolve": "/Users/peterholmgrencranner/levelup-blog/node_modules/gatsby-plugin-sharp",
+      "id": "Plugin gatsby-plugin-sharp",
+      "name": "gatsby-plugin-sharp",
+      "version": "1.6.31",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/peterholmgrencranner/levelup-blog/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "1.6.31",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "image-size",
+            "version": "^0.5.1"
+          },
+          {
+            "name": "imagemin",
+            "version": "^5.2.2"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.19.0"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ace3fdeacfdd62467c17626bae0eb117",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "/Users/peterholmgrencranner/levelup-blog",
+      "id": "Plugin default-site-plugin",
+      "name": "default-site-plugin",
+      "version": "9f2b802729a9b9eacfdc88e914b052ae",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "createPages"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/peterholmgrencranner/levelup-blog",
+      "packageJson": {
+        "name": "gatsby-starter-default",
+        "description": "Gatsby default starter",
+        "version": "1.0.0",
+        "main": "n/a",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.9.202"
+          },
+          {
+            "name": "gatsby-image",
+            "version": "^1.0.38"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "^1.6.37"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^2.0.5"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^1.6.31"
+          },
+          {
+            "name": "gatsby-plugin-styled-components",
+            "version": "^2.0.7"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^1.5.21"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^1.7.33"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^1.6.20"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "styled-components",
+            "version": "^3.1.6"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "prettier",
+            "version": "^1.10.2"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "40819b66e49a4ccd190ad9baa2696476",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Gatsby Default Starter",
+        "desc": "A new blog"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2018-05-12T14:44:06.020Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "dc09a96f3083aa98f429a8cc9e973f08",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "/Users/peterholmgrencranner/levelup-blog/src/ absPath of file": {
+      "id": "/Users/peterholmgrencranner/levelup-blog/src/ absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7c77f08867527c60212ca56e474a1a97",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/peterholmgrencranner/levelup-blog/src/",
+      "relativePath": "",
+      "extension": "",
+      "size": 272,
+      "prettySize": "272 B",
+      "modifiedTime": "2018-05-11T23:48:28.000Z",
+      "accessTime": "2018-05-12T14:44:30.000Z",
+      "changeTime": "2018-05-11T23:54:35.000Z",
+      "birthTime": "2018-05-11T23:48:28.000Z",
+      "root": "/",
+      "dir": "/Users/peterholmgrencranner/levelup-blog",
+      "base": "src",
+      "ext": "",
+      "name": "src",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 8,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 34740711,
+      "blocks": 0,
+      "atimeMs": 1526136270000,
+      "mtimeMs": 1526082508000,
+      "ctimeMs": 1526082875000,
+      "birthtimeMs": 1526082508000,
+      "atime": "2018-05-12T14:44:30.000Z",
+      "mtime": "2018-05-11T23:48:28.000Z",
+      "ctime": "2018-05-11T23:54:35.000Z",
+      "birthtime": "2018-05-11T23:48:28.000Z"
+    },
+    "/Users/peterholmgrencranner/levelup-blog/src/components absPath of file": {
+      "id": "/Users/peterholmgrencranner/levelup-blog/src/components absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "dc42c91e622dcc26162bb7a6f0ddc79e",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/peterholmgrencranner/levelup-blog/src/components",
+      "relativePath": "components",
+      "extension": "",
+      "size": 136,
+      "prettySize": "136 B",
+      "modifiedTime": "2018-05-11T23:48:28.000Z",
+      "accessTime": "2018-05-12T14:44:30.000Z",
+      "changeTime": "2018-05-11T23:54:34.000Z",
+      "birthTime": "2018-05-11T23:48:28.000Z",
+      "root": "/",
+      "dir": "/Users/peterholmgrencranner/levelup-blog/src",
+      "base": "components",
+      "ext": "",
+      "name": "components",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 34740721,
+      "blocks": 0,
+      "atimeMs": 1526136270000,
+      "mtimeMs": 1526082508000,
+      "ctimeMs": 1526082874000,
+      "birthtimeMs": 1526082508000,
+      "atime": "2018-05-12T14:44:30.000Z",
+      "mtime": "2018-05-11T23:48:28.000Z",
+      "ctime": "2018-05-11T23:54:34.000Z",
+      "birthtime": "2018-05-11T23:48:28.000Z"
+    },
+    "/Users/peterholmgrencranner/levelup-blog/src/images absPath of file": {
+      "id": "/Users/peterholmgrencranner/levelup-blog/src/images absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a3e6af7662ebdcdc27ecf2ea432736fa",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/peterholmgrencranner/levelup-blog/src/images",
+      "relativePath": "images",
+      "extension": "",
+      "size": 136,
+      "prettySize": "136 B",
+      "modifiedTime": "2018-05-11T23:48:29.000Z",
+      "accessTime": "2018-05-12T14:44:30.000Z",
+      "changeTime": "2018-05-11T23:54:35.000Z",
+      "birthTime": "2018-05-11T23:48:28.000Z",
+      "root": "/",
+      "dir": "/Users/peterholmgrencranner/levelup-blog/src",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 34740726,
+      "blocks": 0,
+      "atimeMs": 1526136270000,
+      "mtimeMs": 1526082509000,
+      "ctimeMs": 1526082875000,
+      "birthtimeMs": 1526082508000,
+      "atime": "2018-05-12T14:44:30.000Z",
+      "mtime": "2018-05-11T23:48:29.000Z",
+      "ctime": "2018-05-11T23:54:35.000Z",
+      "birthtime": "2018-05-11T23:48:28.000Z"
+    },
+    "/Users/peterholmgrencranner/levelup-blog/src/layouts absPath of file": {
+      "id": "/Users/peterholmgrencranner/levelup-blog/src/layouts absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "c82d0c28ef72c2233895b042cbe3481a",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/peterholmgrencranner/levelup-blog/src/layouts",
+      "relativePath": "layouts",
+      "extension": "",
+      "size": 136,
+      "prettySize": "136 B",
+      "modifiedTime": "2018-05-11T23:48:28.000Z",
+      "accessTime": "2018-05-12T14:44:30.000Z",
+      "changeTime": "2018-05-11T23:54:35.000Z",
+      "birthTime": "2018-05-11T23:48:28.000Z",
+      "root": "/",
+      "dir": "/Users/peterholmgrencranner/levelup-blog/src",
+      "base": "layouts",
+      "ext": "",
+      "name": "layouts",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 34740729,
+      "blocks": 0,
+      "atimeMs": 1526136270000,
+      "mtimeMs": 1526082508000,
+      "ctimeMs": 1526082875000,
+      "birthtimeMs": 1526082508000,
+      "atime": "2018-05-12T14:44:30.000Z",
+      "mtime": "2018-05-11T23:48:28.000Z",
+      "ctime": "2018-05-11T23:54:35.000Z",
+      "birthtime": "2018-05-11T23:48:28.000Z"
+    },
+    "/Users/peterholmgrencranner/levelup-blog/src/pages absPath of file": {
+      "id": "/Users/peterholmgrencranner/levelup-blog/src/pages absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b285e37afc50a29236d52e0a896b9f2a",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/peterholmgrencranner/levelup-blog/src/pages",
+      "relativePath": "pages",
+      "extension": "",
+      "size": 204,
+      "prettySize": "204 B",
+      "modifiedTime": "2018-05-11T23:48:28.000Z",
+      "accessTime": "2018-05-12T14:44:30.000Z",
+      "changeTime": "2018-05-11T23:54:35.000Z",
+      "birthTime": "2018-05-11T23:48:28.000Z",
+      "root": "/",
+      "dir": "/Users/peterholmgrencranner/levelup-blog/src",
+      "base": "pages",
+      "ext": "",
+      "name": "pages",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 6,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 34740732,
+      "blocks": 0,
+      "atimeMs": 1526136270000,
+      "mtimeMs": 1526082508000,
+      "ctimeMs": 1526082875000,
+      "birthtimeMs": 1526082508000,
+      "atime": "2018-05-12T14:44:30.000Z",
+      "mtime": "2018-05-11T23:48:28.000Z",
+      "ctime": "2018-05-11T23:54:35.000Z",
+      "birthtime": "2018-05-11T23:48:28.000Z"
+    },
+    "/Users/peterholmgrencranner/levelup-blog/src/posts absPath of file": {
+      "id": "/Users/peterholmgrencranner/levelup-blog/src/posts absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "fbb0016202292a101c265c4b7214a0c9",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/peterholmgrencranner/levelup-blog/src/posts",
+      "relativePath": "posts",
+      "extension": "",
+      "size": 170,
+      "prettySize": "170 B",
+      "modifiedTime": "2018-05-11T23:48:28.000Z",
+      "accessTime": "2018-05-12T14:44:30.000Z",
+      "changeTime": "2018-05-11T23:54:35.000Z",
+      "birthTime": "2018-05-11T23:48:28.000Z",
+      "root": "/",
+      "dir": "/Users/peterholmgrencranner/levelup-blog/src",
+      "base": "posts",
+      "ext": "",
+      "name": "posts",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 5,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 34740737,
+      "blocks": 0,
+      "atimeMs": 1526136270000,
+      "mtimeMs": 1526082508000,
+      "ctimeMs": 1526082875000,
+      "birthtimeMs": 1526082508000,
+      "atime": "2018-05-12T14:44:30.000Z",
+      "mtime": "2018-05-11T23:48:28.000Z",
+      "ctime": "2018-05-11T23:54:35.000Z",
+      "birthtime": "2018-05-11T23:48:28.000Z"
+    },
+    "/Users/peterholmgrencranner/levelup-blog/src/components/Header absPath of file": {
+      "id": "/Users/peterholmgrencranner/levelup-blog/src/components/Header absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "f2653d90505d25249f8b99a8d932683e",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/peterholmgrencranner/levelup-blog/src/components/Header",
+      "relativePath": "components/Header",
+      "extension": "",
+      "size": 102,
+      "prettySize": "102 B",
+      "modifiedTime": "2018-05-11T23:48:28.000Z",
+      "accessTime": "2018-05-12T14:44:30.000Z",
+      "changeTime": "2018-05-11T23:54:34.000Z",
+      "birthTime": "2018-05-11T23:48:28.000Z",
+      "root": "/",
+      "dir": "/Users/peterholmgrencranner/levelup-blog/src/components",
+      "base": "Header",
+      "ext": "",
+      "name": "Header",
+      "relativeDirectory": "components",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 34740722,
+      "blocks": 0,
+      "atimeMs": 1526136270000,
+      "mtimeMs": 1526082508000,
+      "ctimeMs": 1526082874000,
+      "birthtimeMs": 1526082508000,
+      "atime": "2018-05-12T14:44:30.000Z",
+      "mtime": "2018-05-11T23:48:28.000Z",
+      "ctime": "2018-05-11T23:54:34.000Z",
+      "birthtime": "2018-05-11T23:48:28.000Z"
+    },
+    "/Users/peterholmgrencranner/levelup-blog/src/components/Posts absPath of file": {
+      "id": "/Users/peterholmgrencranner/levelup-blog/src/components/Posts absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a902444df949fc789b65a8b7ee7bd278",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/peterholmgrencranner/levelup-blog/src/components/Posts",
+      "relativePath": "components/Posts",
+      "extension": "",
+      "size": 102,
+      "prettySize": "102 B",
+      "modifiedTime": "2018-05-11T23:48:28.000Z",
+      "accessTime": "2018-05-12T14:44:30.000Z",
+      "changeTime": "2018-05-11T23:54:34.000Z",
+      "birthTime": "2018-05-11T23:48:28.000Z",
+      "root": "/",
+      "dir": "/Users/peterholmgrencranner/levelup-blog/src/components",
+      "base": "Posts",
+      "ext": "",
+      "name": "Posts",
+      "relativeDirectory": "components",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 34740724,
+      "blocks": 0,
+      "atimeMs": 1526136270000,
+      "mtimeMs": 1526082508000,
+      "ctimeMs": 1526082874000,
+      "birthtimeMs": 1526082508000,
+      "atime": "2018-05-12T14:44:30.000Z",
+      "mtime": "2018-05-11T23:48:28.000Z",
+      "ctime": "2018-05-11T23:54:34.000Z",
+      "birthtime": "2018-05-11T23:48:28.000Z"
+    },
+    "/Users/peterholmgrencranner/levelup-blog/src/images/logo.svg absPath of file": {
+      "id": "/Users/peterholmgrencranner/levelup-blog/src/images/logo.svg absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7665f742d9402c726ad0cd313e098ef8",
+        "mediaType": "image/svg+xml",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/peterholmgrencranner/levelup-blog/src/images/logo.svg",
+      "relativePath": "images/logo.svg",
+      "extension": "svg",
+      "size": 14522,
+      "prettySize": "14.5 kB",
+      "modifiedTime": "2017-07-31T16:26:40.000Z",
+      "accessTime": "2018-05-11T23:22:30.000Z",
+      "changeTime": "2018-05-11T23:22:31.000Z",
+      "birthTime": "2017-07-31T16:26:40.000Z",
+      "root": "/",
+      "dir": "/Users/peterholmgrencranner/levelup-blog/src/images",
+      "base": "logo.svg",
+      "ext": ".svg",
+      "name": "logo",
+      "relativeDirectory": "images",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 34737998,
+      "blocks": 32,
+      "atimeMs": 1526080950000,
+      "mtimeMs": 1501518400000,
+      "ctimeMs": 1526080951000,
+      "birthtimeMs": 1501518400000,
+      "atime": "2018-05-11T23:22:30.000Z",
+      "mtime": "2017-07-31T16:26:40.000Z",
+      "ctime": "2018-05-11T23:22:31.000Z",
+      "birthtime": "2017-07-31T16:26:40.000Z"
+    },
+    "/Users/peterholmgrencranner/levelup-blog/src/layouts/index.css absPath of file": {
+      "id": "/Users/peterholmgrencranner/levelup-blog/src/layouts/index.css absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "eed8cf4192a217bf249ac4765c7dd68e",
+        "mediaType": "text/css",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/peterholmgrencranner/levelup-blog/src/layouts/index.css",
+      "relativePath": "layouts/index.css",
+      "extension": "css",
+      "size": 11244,
+      "prettySize": "11.2 kB",
+      "modifiedTime": "2018-02-20T18:32:01.000Z",
+      "accessTime": "2018-05-11T23:22:31.000Z",
+      "changeTime": "2018-05-11T23:22:31.000Z",
+      "birthTime": "2018-02-20T18:32:01.000Z",
+      "root": "/",
+      "dir": "/Users/peterholmgrencranner/levelup-blog/src/layouts",
+      "base": "index.css",
+      "ext": ".css",
+      "name": "index",
+      "relativeDirectory": "layouts",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 34738000,
+      "blocks": 24,
+      "atimeMs": 1526080951000,
+      "mtimeMs": 1519151521000,
+      "ctimeMs": 1526080951000,
+      "birthtimeMs": 1519151521000,
+      "atime": "2018-05-11T23:22:31.000Z",
+      "mtime": "2018-02-20T18:32:01.000Z",
+      "ctime": "2018-05-11T23:22:31.000Z",
+      "birthtime": "2018-02-20T18:32:01.000Z"
+    },
+    "/Users/peterholmgrencranner/levelup-blog/src/layouts/index.js absPath of file": {
+      "id": "/Users/peterholmgrencranner/levelup-blog/src/layouts/index.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e1beede877bb60c050f59e574a0627b6",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/peterholmgrencranner/levelup-blog/src/layouts/index.js",
+      "relativePath": "layouts/index.js",
+      "extension": "js",
+      "size": 1025,
+      "prettySize": "1.02 kB",
+      "modifiedTime": "2018-02-22T18:03:31.000Z",
+      "accessTime": "2018-05-11T23:26:17.000Z",
+      "changeTime": "2018-05-11T23:26:18.000Z",
+      "birthTime": "2018-02-22T18:03:31.000Z",
+      "root": "/",
+      "dir": "/Users/peterholmgrencranner/levelup-blog/src/layouts",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "layouts",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 34738655,
+      "blocks": 8,
+      "atimeMs": 1526081177000,
+      "mtimeMs": 1519322611000,
+      "ctimeMs": 1526081178000,
+      "birthtimeMs": 1519322611000,
+      "atime": "2018-05-11T23:26:17.000Z",
+      "mtime": "2018-02-22T18:03:31.000Z",
+      "ctime": "2018-05-11T23:26:18.000Z",
+      "birthtime": "2018-02-22T18:03:31.000Z"
+    },
+    "/Users/peterholmgrencranner/levelup-blog/src/pages/404.js absPath of file": {
+      "id": "/Users/peterholmgrencranner/levelup-blog/src/pages/404.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8d50d9a7e3f04ddcc5ff8d43b6effe79",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/peterholmgrencranner/levelup-blog/src/pages/404.js",
+      "relativePath": "pages/404.js",
+      "extension": "js",
+      "size": 198,
+      "prettySize": "198 B",
+      "modifiedTime": "2018-02-20T18:32:01.000Z",
+      "accessTime": "2018-05-11T23:22:31.000Z",
+      "changeTime": "2018-05-11T23:22:31.000Z",
+      "birthTime": "2018-02-20T18:32:01.000Z",
+      "root": "/",
+      "dir": "/Users/peterholmgrencranner/levelup-blog/src/pages",
+      "base": "404.js",
+      "ext": ".js",
+      "name": "404",
+      "relativeDirectory": "pages",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 34738004,
+      "blocks": 8,
+      "atimeMs": 1526080951000,
+      "mtimeMs": 1519151521000,
+      "ctimeMs": 1526080951000,
+      "birthtimeMs": 1519151521000,
+      "atime": "2018-05-11T23:22:31.000Z",
+      "mtime": "2018-02-20T18:32:01.000Z",
+      "ctime": "2018-05-11T23:22:31.000Z",
+      "birthtime": "2018-02-20T18:32:01.000Z"
+    },
+    "/Users/peterholmgrencranner/levelup-blog/src/pages/about.js absPath of file": {
+      "id": "/Users/peterholmgrencranner/levelup-blog/src/pages/about.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "f1530bd34b473c195907803523d3df0e",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/peterholmgrencranner/levelup-blog/src/pages/about.js",
+      "relativePath": "pages/about.js",
+      "extension": "js",
+      "size": 925,
+      "prettySize": "925 B",
+      "modifiedTime": "2018-02-20T20:16:57.000Z",
+      "accessTime": "2018-05-11T23:22:31.000Z",
+      "changeTime": "2018-05-11T23:22:31.000Z",
+      "birthTime": "2018-02-20T20:16:57.000Z",
+      "root": "/",
+      "dir": "/Users/peterholmgrencranner/levelup-blog/src/pages",
+      "base": "about.js",
+      "ext": ".js",
+      "name": "about",
+      "relativeDirectory": "pages",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 34738005,
+      "blocks": 8,
+      "atimeMs": 1526080951000,
+      "mtimeMs": 1519157817000,
+      "ctimeMs": 1526080951000,
+      "birthtimeMs": 1519157817000,
+      "atime": "2018-05-11T23:22:31.000Z",
+      "mtime": "2018-02-20T20:16:57.000Z",
+      "ctime": "2018-05-11T23:22:31.000Z",
+      "birthtime": "2018-02-20T20:16:57.000Z"
+    },
+    "/Users/peterholmgrencranner/levelup-blog/src/pages/index.js absPath of file": {
+      "id": "/Users/peterholmgrencranner/levelup-blog/src/pages/index.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "03fdf23231277639afd25be5e335356d",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/peterholmgrencranner/levelup-blog/src/pages/index.js",
+      "relativePath": "pages/index.js",
+      "extension": "js",
+      "size": 784,
+      "prettySize": "784 B",
+      "modifiedTime": "2018-02-22T19:30:51.000Z",
+      "accessTime": "2018-05-11T23:32:55.000Z",
+      "changeTime": "2018-05-11T23:32:55.000Z",
+      "birthTime": "2018-02-22T19:30:51.000Z",
+      "root": "/",
+      "dir": "/Users/peterholmgrencranner/levelup-blog/src/pages",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "pages",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 34739622,
+      "blocks": 8,
+      "atimeMs": 1526081575000,
+      "mtimeMs": 1519327851000,
+      "ctimeMs": 1526081575000,
+      "birthtimeMs": 1519327851000,
+      "atime": "2018-05-11T23:32:55.000Z",
+      "mtime": "2018-02-22T19:30:51.000Z",
+      "ctime": "2018-05-11T23:32:55.000Z",
+      "birthtime": "2018-02-22T19:30:51.000Z"
+    },
+    "/Users/peterholmgrencranner/levelup-blog/src/posts/post.md absPath of file": {
+      "id": "/Users/peterholmgrencranner/levelup-blog/src/posts/post.md absPath of file",
+      "children": [
+        "/Users/peterholmgrencranner/levelup-blog/src/posts/post.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d8c1c1c49ce2e19d8f530ad0dafab8e8",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/peterholmgrencranner/levelup-blog/src/posts/post.md",
+      "relativePath": "posts/post.md",
+      "extension": "md",
+      "size": 1345,
+      "prettySize": "1.34 kB",
+      "modifiedTime": "2018-02-21T22:22:14.000Z",
+      "accessTime": "2018-05-11T23:22:31.000Z",
+      "changeTime": "2018-05-11T23:22:32.000Z",
+      "birthTime": "2018-02-21T22:22:14.000Z",
+      "root": "/",
+      "dir": "/Users/peterholmgrencranner/levelup-blog/src/posts",
+      "base": "post.md",
+      "ext": ".md",
+      "name": "post",
+      "relativeDirectory": "posts",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 34738008,
+      "blocks": 8,
+      "atimeMs": 1526080951000,
+      "mtimeMs": 1519251734000,
+      "ctimeMs": 1526080952000,
+      "birthtimeMs": 1519251734000,
+      "atime": "2018-05-11T23:22:31.000Z",
+      "mtime": "2018-02-21T22:22:14.000Z",
+      "ctime": "2018-05-11T23:22:32.000Z",
+      "birthtime": "2018-02-21T22:22:14.000Z"
+    },
+    "/Users/peterholmgrencranner/levelup-blog/src/posts/PostPage.js absPath of file": {
+      "id": "/Users/peterholmgrencranner/levelup-blog/src/posts/PostPage.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "c4c32b1e7a287028f6cdaa57d813f665",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/peterholmgrencranner/levelup-blog/src/posts/PostPage.js",
+      "relativePath": "posts/PostPage.js",
+      "extension": "js",
+      "size": 660,
+      "prettySize": "660 B",
+      "modifiedTime": "2018-02-22T17:27:13.000Z",
+      "accessTime": "2018-05-11T23:22:32.000Z",
+      "changeTime": "2018-05-11T23:22:32.000Z",
+      "birthTime": "2018-02-22T17:27:13.000Z",
+      "root": "/",
+      "dir": "/Users/peterholmgrencranner/levelup-blog/src/posts",
+      "base": "PostPage.js",
+      "ext": ".js",
+      "name": "PostPage",
+      "relativeDirectory": "posts",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 34738009,
+      "blocks": 8,
+      "atimeMs": 1526080952000,
+      "mtimeMs": 1519320433000,
+      "ctimeMs": 1526080952000,
+      "birthtimeMs": 1519320433000,
+      "atime": "2018-05-11T23:22:32.000Z",
+      "mtime": "2018-02-22T17:27:13.000Z",
+      "ctime": "2018-05-11T23:22:32.000Z",
+      "birthtime": "2018-02-22T17:27:13.000Z"
+    },
+    "/Users/peterholmgrencranner/levelup-blog/src/components/Header/index.js absPath of file": {
+      "id": "/Users/peterholmgrencranner/levelup-blog/src/components/Header/index.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "1ea34c1c941e425e3e4eb1027c9ad4b0",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/peterholmgrencranner/levelup-blog/src/components/Header/index.js",
+      "relativePath": "components/Header/index.js",
+      "extension": "js",
+      "size": 2871,
+      "prettySize": "2.87 kB",
+      "modifiedTime": "2018-02-22T19:25:41.000Z",
+      "accessTime": "2018-05-11T23:32:55.000Z",
+      "changeTime": "2018-05-11T23:32:55.000Z",
+      "birthTime": "2018-02-22T19:25:41.000Z",
+      "root": "/",
+      "dir": "/Users/peterholmgrencranner/levelup-blog/src/components/Header",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "components/Header",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 34739608,
+      "blocks": 8,
+      "atimeMs": 1526081575000,
+      "mtimeMs": 1519327541000,
+      "ctimeMs": 1526081575000,
+      "birthtimeMs": 1519327541000,
+      "atime": "2018-05-11T23:32:55.000Z",
+      "mtime": "2018-02-22T19:25:41.000Z",
+      "ctime": "2018-05-11T23:32:55.000Z",
+      "birthtime": "2018-02-22T19:25:41.000Z"
+    },
+    "/Users/peterholmgrencranner/levelup-blog/src/components/Posts/PostListing.js absPath of file": {
+      "id": "/Users/peterholmgrencranner/levelup-blog/src/components/Posts/PostListing.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d74fa2a2b43bc55b7c23b299730049ed",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/peterholmgrencranner/levelup-blog/src/components/Posts/PostListing.js",
+      "relativePath": "components/Posts/PostListing.js",
+      "extension": "js",
+      "size": 305,
+      "prettySize": "305 B",
+      "modifiedTime": "2018-02-22T17:28:51.000Z",
+      "accessTime": "2018-05-11T23:22:22.000Z",
+      "changeTime": "2018-05-11T23:22:22.000Z",
+      "birthTime": "2018-02-22T17:28:51.000Z",
+      "root": "/",
+      "dir": "/Users/peterholmgrencranner/levelup-blog/src/components/Posts",
+      "base": "PostListing.js",
+      "ext": ".js",
+      "name": "PostListing",
+      "relativeDirectory": "components/Posts",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 34737995,
+      "blocks": 8,
+      "atimeMs": 1526080942000,
+      "mtimeMs": 1519320531000,
+      "ctimeMs": 1526080942000,
+      "birthtimeMs": 1519320531000,
+      "atime": "2018-05-11T23:22:22.000Z",
+      "mtime": "2018-02-22T17:28:51.000Z",
+      "ctime": "2018-05-11T23:22:22.000Z",
+      "birthtime": "2018-02-22T17:28:51.000Z"
+    },
+    "/Users/peterholmgrencranner/levelup-blog/src/posts/post.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/peterholmgrencranner/levelup-blog/src/posts/post.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/peterholmgrencranner/levelup-blog/src/posts/post.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: \"Welcome to the new blog\"\ndate: \"2018-02-21\"\n---\n\nBeard roof party cardigan locavore you probably haven't heard of them squid artisan edison bulb whatever normcore jianbing succulents. Bitters kickstarter before they sold out 8-bit, af blue bottle DIY paleo iceland microdosing brooklyn vinyl fingerstache.<!-- end --> Gentrify adaptogen raw denim heirloom. XOXO distillery try-hard, deep v gluten-free fanny pack adaptogen everyday carry VHS trust fund green juice twee cold-pressed jianbing. Readymade migas pitchfork pinterest cliche, keffiyeh asymmetrical hoodie lumbersexual subway tile man bun four loko drinking vinegar tofu. YOLO pinterest try-hard pok pok echo park tacos.\n\n* This\n* Is\n* A\n\nBeard roof party cardigan locavore you probably haven't heard of them squid artisan edison bulb whatever normcore jianbing succulents. Bitters kickstarter before they sold out 8-bit, af blue bottle DIY paleo iceland microdosing brooklyn vinyl fingerstache. Gentrify adaptogen raw denim heirloom. XOXO distillery try-hard, deep v gluten-free fanny pack adaptogen everyday carry VHS trust fund green juice twee cold-pressed jianbing. Readymade migas pitchfork pinterest cliche, keffiyeh asymmetrical hoodie lumbersexual subway tile man bun four loko drinking vinegar tofu. YOLO pinterest try-hard pok pok echo park tacos.\n\n* New\n* Post\n",
+        "contentDigest": "0a82760dd00db5aa89fadbd82d67c7d9",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Welcome to the new blog",
+        "date": "2018-02-21",
+        "_PARENT": "/Users/peterholmgrencranner/levelup-blog/src/posts/post.md absPath of file",
+        "parent": "/Users/peterholmgrencranner/levelup-blog/src/posts/post.md absPath of file"
+      },
+      "excerpt": "\nBeard roof party cardigan locavore you probably haven't heard of them squid artisan edison bulb whatever normcore jianbing succulents. Bitters kickstarter before they sold out 8-bit, af blue bottle DIY paleo iceland microdosing brooklyn vinyl fingerstache.",
+      "fileAbsolutePath": "/Users/peterholmgrencranner/levelup-blog/src/posts/post.md",
+      "fields": {
+        "slug": "/posts/post/"
+      }
+    },
+    "/Users/peterholmgrencranner/levelup-blog/src/images/bg.jpeg absPath of file": {
+      "id": "/Users/peterholmgrencranner/levelup-blog/src/images/bg.jpeg absPath of file",
+      "children": [
+        "/Users/peterholmgrencranner/levelup-blog/src/images/bg.jpeg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "6b6971baeb8265aadc7f014edaa6ff31",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/peterholmgrencranner/levelup-blog/src/images/bg.jpeg",
+      "relativePath": "images/bg.jpeg",
+      "extension": "jpeg",
+      "size": 19555308,
+      "prettySize": "19.6 MB",
+      "modifiedTime": "2018-02-21T18:06:26.000Z",
+      "accessTime": "2018-05-11T23:22:29.000Z",
+      "changeTime": "2018-05-11T23:22:30.000Z",
+      "birthTime": "2018-02-21T18:06:26.000Z",
+      "root": "/",
+      "dir": "/Users/peterholmgrencranner/levelup-blog/src/images",
+      "base": "bg.jpeg",
+      "ext": ".jpeg",
+      "name": "bg",
+      "relativeDirectory": "images",
+      "dev": 16777220,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 34737997,
+      "blocks": 38200,
+      "atimeMs": 1526080949000,
+      "mtimeMs": 1519236386000,
+      "ctimeMs": 1526080950000,
+      "birthtimeMs": 1519236386000,
+      "atime": "2018-05-11T23:22:29.000Z",
+      "mtime": "2018-02-21T18:06:26.000Z",
+      "ctime": "2018-05-11T23:22:30.000Z",
+      "birthtime": "2018-02-21T18:06:26.000Z"
+    },
+    "/Users/peterholmgrencranner/levelup-blog/src/images/bg.jpeg absPath of file >> ImageSharp": {
+      "id": "/Users/peterholmgrencranner/levelup-blog/src/images/bg.jpeg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/peterholmgrencranner/levelup-blog/src/images/bg.jpeg absPath of file",
+      "internal": {
+        "contentDigest": "6b6971baeb8265aadc7f014edaa6ff31",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/peterholmgrencranner/levelup-blog/src/posts/our-second-post.md absPath of file": {
+      "id": "/Users/peterholmgrencranner/levelup-blog/src/posts/our-second-post.md absPath of file",
+      "children": [
+        "/Users/peterholmgrencranner/levelup-blog/src/posts/our-second-post.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "ab4f37d9456a827a0faa625ed88e5c0c",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/peterholmgrencranner/levelup-blog/src/posts/our-second-post.md",
+      "relativePath": "posts/our-second-post.md",
+      "extension": "md",
+      "size": 459,
+      "prettySize": "459 B",
+      "modifiedTime": "2018-02-22T19:27:01.000Z",
+      "accessTime": "2018-05-11T23:32:55.000Z",
+      "changeTime": "2018-05-11T23:32:55.000Z",
+      "birthTime": "2018-02-22T19:27:01.000Z",
+      "root": "/",
+      "dir": "/Users/peterholmgrencranner/levelup-blog/src/posts",
+      "base": "our-second-post.md",
+      "ext": ".md",
+      "name": "our-second-post",
+      "relativeDirectory": "posts",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 34739624,
+      "blocks": 8,
+      "atimeMs": 1526081575000,
+      "mtimeMs": 1519327621000,
+      "ctimeMs": 1526081575000,
+      "birthtimeMs": 1519327621000,
+      "atime": "2018-05-11T23:32:55.000Z",
+      "mtime": "2018-02-22T19:27:01.000Z",
+      "ctime": "2018-05-11T23:32:55.000Z",
+      "birthtime": "2018-02-22T19:27:01.000Z"
+    },
+    "/Users/peterholmgrencranner/levelup-blog/src/posts/our-second-post.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/peterholmgrencranner/levelup-blog/src/posts/our-second-post.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/peterholmgrencranner/levelup-blog/src/posts/our-second-post.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: \"Our Second Blog\"\ndate: \"2018-02-22\"\n---\n\nBitters kickstarter before they sold out 8-bit, af blue bottle DIY paleo iceland microdosing brooklyn vinyl fingerstache. Gentrify adaptogen raw denim heirloom. XOXO distillery try-hard, deep v gluten-free fanny pack adaptogen everyday carry VHS\n\n<!-- end -->\n\n* This\n* Is\n* A\n\nBeard roof party cardigan locavore you probably haven't heard of them squid artisan edison bulb whatever normcore\n\n* New\n* Post\n",
+        "contentDigest": "08bed9a1de8ef30893b27a061b0bb0c1",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Our Second Blog",
+        "date": "2018-02-22",
+        "_PARENT": "/Users/peterholmgrencranner/levelup-blog/src/posts/our-second-post.md absPath of file",
+        "parent": "/Users/peterholmgrencranner/levelup-blog/src/posts/our-second-post.md absPath of file"
+      },
+      "excerpt": "\nBitters kickstarter before they sold out 8-bit, af blue bottle DIY paleo iceland microdosing brooklyn vinyl fingerstache. Gentrify adaptogen raw denim heirloom. XOXO distillery try-hard, deep v gluten-free fanny pack adaptogen everyday carry VHS\n\n",
+      "fileAbsolutePath": "/Users/peterholmgrencranner/levelup-blog/src/posts/our-second-post.md",
+      "fields": {
+        "slug": "/posts/our-second-post/"
+      }
+    },
+    "/Users/peterholmgrencranner/levelup-blog/src/pages/_DS_Store absPath of file": {
+      "id": "/Users/peterholmgrencranner/levelup-blog/src/pages/_DS_Store absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "194577a7e20bdcc7afbb718f502c134c",
+        "mediaType": "application/octet-stream",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/peterholmgrencranner/levelup-blog/src/pages/_DS_Store",
+      "relativePath": "pages/_DS_Store",
+      "extension": "",
+      "size": 6148,
+      "prettySize": "6.15 kB",
+      "modifiedTime": "2018-05-05T23:28:34.000Z",
+      "accessTime": "2018-05-11T23:54:35.000Z",
+      "changeTime": "2018-05-11T23:54:35.000Z",
+      "birthTime": "2018-05-05T23:28:34.000Z",
+      "root": "/",
+      "dir": "/Users/peterholmgrencranner/levelup-blog/src/pages",
+      "base": "_DS_Store",
+      "ext": "",
+      "name": "_DS_Store",
+      "relativeDirectory": "pages",
+      "dev": 16777220,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 34740734,
+      "blocks": 16,
+      "atimeMs": 1526082875000,
+      "mtimeMs": 1525562914000,
+      "ctimeMs": 1526082875000,
+      "birthtimeMs": 1525562914000,
+      "atime": "2018-05-11T23:54:35.000Z",
+      "mtime": "2018-05-05T23:28:34.000Z",
+      "ctime": "2018-05-11T23:54:35.000Z",
+      "birthtime": "2018-05-05T23:28:34.000Z"
+    },
+    "/Users/peterholmgrencranner/levelup-blog/src/_DS_Store absPath of file": {
+      "id": "/Users/peterholmgrencranner/levelup-blog/src/_DS_Store absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "68bd4330aaf5f45c6b749e2dfdb8f803",
+        "mediaType": "application/octet-stream",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/peterholmgrencranner/levelup-blog/src/_DS_Store",
+      "relativePath": "_DS_Store",
+      "extension": "",
+      "size": 6148,
+      "prettySize": "6.15 kB",
+      "modifiedTime": "2018-05-05T23:28:04.000Z",
+      "accessTime": "2018-05-11T23:54:34.000Z",
+      "changeTime": "2018-05-11T23:54:34.000Z",
+      "birthTime": "2018-05-05T23:28:04.000Z",
+      "root": "/",
+      "dir": "/Users/peterholmgrencranner/levelup-blog/src",
+      "base": "_DS_Store",
+      "ext": "",
+      "name": "_DS_Store",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 34740720,
+      "blocks": 16,
+      "atimeMs": 1526082874000,
+      "mtimeMs": 1525562884000,
+      "ctimeMs": 1526082874000,
+      "birthtimeMs": 1525562884000,
+      "atime": "2018-05-11T23:54:34.000Z",
+      "mtime": "2018-05-05T23:28:04.000Z",
+      "ctime": "2018-05-11T23:54:34.000Z",
+      "birthtime": "2018-05-05T23:28:04.000Z"
+    },
+    "SitePage /posts/post/": {
+      "layout": "index",
+      "jsonName": "posts-post.json",
+      "internalComponentName": "ComponentPostsPost",
+      "path": "/posts/post/",
+      "component": "/Users/peterholmgrencranner/levelup-blog/src/posts/PostPage.js",
+      "componentChunkName": "component---src-posts-post-page-js",
+      "context": {
+        "slug": "/posts/post/"
+      },
+      "updatedAt": 1526136271034,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/peterholmgrencranner/levelup-blog/src/posts/PostPage.js",
+      "id": "SitePage /posts/post/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f669f889af45527384e54e37a00bcc30",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /posts/our-second-post/": {
+      "layout": "index",
+      "jsonName": "posts-our-second-post.json",
+      "internalComponentName": "ComponentPostsOurSecondPost",
+      "path": "/posts/our-second-post/",
+      "component": "/Users/peterholmgrencranner/levelup-blog/src/posts/PostPage.js",
+      "componentChunkName": "component---src-posts-post-page-js",
+      "context": {
+        "slug": "/posts/our-second-post/"
+      },
+      "updatedAt": 1526136271035,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/peterholmgrencranner/levelup-blog/src/posts/PostPage.js",
+      "id": "SitePage /posts/our-second-post/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e49f251239cfb8227e0c1bc39af8948b",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "layout": "index",
+      "jsonName": "404.json",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/peterholmgrencranner/levelup-blog/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "updatedAt": 1526136271089,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/peterholmgrencranner/levelup-blog/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "72782c72e1a5ef16e7136c0b0324fa2f",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about/": {
+      "layout": "index",
+      "jsonName": "about.json",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about/",
+      "component": "/Users/peterholmgrencranner/levelup-blog/src/pages/about.js",
+      "componentChunkName": "component---src-pages-about-js",
+      "context": {},
+      "updatedAt": 1526136271090,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/peterholmgrencranner/levelup-blog/src/pages/about.js",
+      "id": "SitePage /about/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "67858bf081f240f68cb8b2baf2bbaf70",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/peterholmgrencranner/levelup-blog/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "updatedAt": 1526136271090,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/peterholmgrencranner/levelup-blog/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "2535b27a1211038b8857a0c7973bbd93",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/peterholmgrencranner/levelup-blog/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "updatedAt": 1526136271092,
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "/Users/peterholmgrencranner/levelup-blog/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "94fa4b675b351dd2cdfa1bbd753c4775",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "dd916d48371feb2af18ccd79b1453246"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "/Users/peterholmgrencranner/levelup-blog/src/posts/post.md absPath of file >>> MarkdownRemark": [
+        "/posts/post/"
+      ],
+      "Site": [
+        "/",
+        "LAYOUT___index"
+      ],
+      "/Users/peterholmgrencranner/levelup-blog/src/images/bg.jpeg absPath of file >> ImageSharp": [
+        "LAYOUT___index"
+      ],
+      "/Users/peterholmgrencranner/levelup-blog/src/images/bg.jpeg absPath of file": [
+        null,
+        null
+      ],
+      "/Users/peterholmgrencranner/levelup-blog/src/posts/our-second-post.md absPath of file >>> MarkdownRemark": [
+        "/posts/our-second-post/"
+      ]
+    },
+    "connections": {
+      "SitePage": [
+        "/dev-404-page/"
+      ],
+      "MarkdownRemark": [
+        "/"
+      ]
+    }
+  }
+}
